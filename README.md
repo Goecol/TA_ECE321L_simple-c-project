@@ -8,7 +8,7 @@ The purpose of this lab is to introduce students to **Git** and the fundamentals
 ---
 
 ## 🛠️ Contents
-- `triangle_area.c` – Example C program for calculating the area of a triangle.  
+- `simple_program.c` – Example C program for testing the git actions.  
 - Git practice exercises:
   - Initializing a repository  
   - Committing changes  
